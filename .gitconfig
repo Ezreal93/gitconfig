@@ -1,0 +1,17 @@
+[user]
+	name = Israel Davila
+	email = idavilam1100@alumno.ipn.mx
+[help]
+	autocorrect = 1
+[color]
+	ui = auto
+[alias]
+	st = status
+	al = add --all
+	cim = commit -v -m
+	om = origin master
+	gst = git status
+	gp = git push origin master
+	gl = git pull origin master
+	gc = git commit -v -m
+	cam = git commit -a -m
